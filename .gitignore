@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# MLflow
+mlflow.db
+mlruns/
+
+# Generated model
+models/*.joblib
